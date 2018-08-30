@@ -1,11 +1,11 @@
 .square {
-  height: 40px;
-  width: 40px;
+  height: 20px;
+  width: 20px;
   border: 1px solid grey;
 }
 
 .maker {
-  width: 510px;
+  width: 1030px;
 }
 
 .center {
@@ -30,42 +30,6 @@
   background-color: white;
 }
 
-.red {
-  background-color: red;
-}
-
-.blue {
-  background-color: blue;
-}
-
-.orange {
-  background-color: orange;
-}
-
-.yellow {
-  background-color: yellow;
-}
-
-.green {
-  background-color: green;
-}
-
-.purple {
-  background-color: purple;
-}
-
-.black {
-  background-color: black;
-}
-
-.brown {
-  background-color: SaddleBrown;
-}
-
-.gray {
-  background-color: gray;
-}
-
-.pink {
-  background-color: pink;
+.bold {
+  font-weight: bold;
 }
