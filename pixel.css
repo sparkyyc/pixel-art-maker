@@ -1,0 +1,71 @@
+.square {
+  height: 40px;
+  width: 40px;
+  border: 1px solid grey;
+}
+
+.maker {
+  width: 510px;
+}
+
+.center {
+  text-align: center;
+}
+
+.circle {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 6px;
+  border: 1px solid grey;
+}
+
+.rectangle {
+  height: 40px;
+  width: 70px;
+  border: 1px solid grey;
+  display: inline-block;
+  margin: 6px;
+  background-color: white;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.black {
+  background-color: black;
+}
+
+.brown {
+  background-color: SaddleBrown;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.pink {
+  background-color: pink;
+}
